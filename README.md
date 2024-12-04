@@ -5,6 +5,9 @@
 - Frontend
 - Backend
 - Mobile Development
+- E-commerce platforms
+- Cloud Solutions
+- Devops & Tools
 
 ## My Skills
 
