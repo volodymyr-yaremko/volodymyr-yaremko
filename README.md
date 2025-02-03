@@ -1,4 +1,4 @@
-## *Thanks you for visiting my profile.*
+## *Thank you for visiting my profile.*
 
 <span><b>[ React / Next.js / Vue.js / Angular / TypeScript / Node.js / Express.js / React-Native / Laravel / Django / Spring Boot / .Net]</b></span>
 <br>
