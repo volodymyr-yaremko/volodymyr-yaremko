@@ -151,8 +151,4 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
     alt="intellij-idea" />
 </p>
-
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=fermincasquero&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fermincasquero&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fermincasquero&include_all_commits=true&count_private=true&theme=tokyonight)
 <br>
